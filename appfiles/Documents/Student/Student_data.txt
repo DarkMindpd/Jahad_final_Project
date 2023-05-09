@@ -1,0 +1,2 @@
+FullName: PEdram Azini Melli code: 0640851355 Student code: 2314 Section: dfs major: efd Course Credits: 0 
+FullName: malihe komeilidoust Melli code: 0312658499 Student code: 124 Section: sds major: wds Course Credits: 4 | Lesson Code: 1425 Score: 19.25 || Lesson Code: 4574 Score: 20 || Lesson Code: 45856 Score: 19 || Lesson Code: 2147 Score: 18 | Average: 19.0625 
